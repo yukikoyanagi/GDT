@@ -1,2 +1,0 @@
-# GDT
-GDT linear fit
